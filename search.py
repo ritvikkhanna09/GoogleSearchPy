@@ -28,5 +28,5 @@ while(ser_res!='N'):
         view_res=raw_input()
     sys.stdout.write("\n| Search Again ?(Y|N) | >>")
     ser_res=raw_input()
-print(":::::::::::::THANK YOU:::::::::::::::")
+print(":::::::::::::THANK YOU Come again !:::::::::::::::")
 sys.exit()
